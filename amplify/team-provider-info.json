@@ -1,4 +1,17 @@
 {
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-oohama-staging-23956-authRole",
+      "UnauthRoleArn": "arn:aws:iam::711556954185:role/amplify-oohama-staging-23956-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::711556954185:role/amplify-oohama-staging-23956-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-oohama-staging-23956-deployment",
+      "UnauthRoleName": "amplify-oohama-staging-23956-unauthRole",
+      "StackName": "amplify-oohama-staging-23956",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:711556954185:stack/amplify-oohama-staging-23956/eba54470-066e-11ee-963f-0ab29a174d52",
+      "AmplifyAppId": "d5i47vniglbnw"
+    }
+  },
   "master": {
     "awscloudformation": {
       "AuthRoleName": "amplify-amplifyhomes-master-124532-authRole",
