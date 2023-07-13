@@ -1,0 +1,10 @@
+{
+  "resourceName": "ohamaApp",
+  "tableName": "ohamaApp",
+  "partitionKey": {
+    "fieldName": "user_id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
